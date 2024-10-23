@@ -8,11 +8,6 @@ Este estudo analisa os dados de domicílios ocupados e desocupados na cidade de 
 - **🛠️ Ferramentas Utilizadas**: Python, Pandas, GeoPandas e Folium para manipulação e visualização dos dados.
 - **🖼️ Visualizações**: Mapas interativos que mostram a localização e quantidade de casas desocupadas.
 
-## 📈 Resultados
-
-- 🚪 **Número Total de Casas Desocupadas**: X casas desocupadas em Florianópolis.
-- 🌍 **Distribuição Geográfica**: As áreas com maior concentração de casas desocupadas estão localizadas em Y e Z, conforme os mapas gerados.
-
 ## 🗺️ Visualização Interativa
 
 Os mapas interativos foram gerados para ilustrar a distribuição das casas desocupadas. Você pode visualizar as informações ao passar o mouse sobre cada região, obtendo detalhes adicionais sobre o número de domicílios.
