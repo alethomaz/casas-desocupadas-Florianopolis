@@ -8,11 +8,6 @@ Este estudo analisa os dados de domicílios ocupados e desocupados na cidade de 
 - **🛠️ Ferramentas Utilizadas**: Python, Pandas, GeoPandas e Folium para manipulação e visualização dos dados.
 - **🖼️ Visualizações**: Mapas interativos que mostram a localização e quantidade de casas desocupadas.
 
-## 📈 Resultados
-
-- 🚪 **Número Total de Casas Desocupadas**: X casas desocupadas em Florianópolis.
-- 🌍 **Distribuição Geográfica**: As áreas com maior concentração de casas desocupadas estão localizadas em Y e Z, conforme os mapas gerados.
-
 ## 🗺️ Visualização Interativa
 
 Os mapas interativos foram gerados para ilustrar a distribuição das casas desocupadas. Você pode visualizar as informações ao passar o mouse sobre cada região, obtendo detalhes adicionais sobre o número de domicílios.
@@ -26,6 +21,8 @@ A análise destaca áreas críticas onde a taxa de desocupação é maior, auxil
 1. Clone este repositório.
 2. Instale as dependências listadas no arquivo `requirements.txt`.
 3. Execute o notebook Jupyter `AnaliseDeDomiciliosOcupados.ipynb` para visualizar o estudo completo e interativo.
+4. Baixar CSV de setores agregados de Santa Catarina e a malha dos setores censitários(LINK NO CÓDIGO).
+5. Colocar esses arquivos .csv dentro da pasta recursos.
 
 ## 💡 Contribuições
 
