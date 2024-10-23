@@ -21,6 +21,8 @@ A análise destaca áreas críticas onde a taxa de desocupação é maior, auxil
 1. Clone este repositório.
 2. Instale as dependências listadas no arquivo `requirements.txt`.
 3. Execute o notebook Jupyter `AnaliseDeDomiciliosOcupados.ipynb` para visualizar o estudo completo e interativo.
+4. Baixar CSV de setores agregados de Santa Catarina e a malha dos setores censitários(LINK NO CÓDIGO).
+5. Colocar esses arquivos .csv dentro da pasta recursos.
 
 ## 💡 Contribuições
 
