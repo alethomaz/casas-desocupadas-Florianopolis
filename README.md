@@ -1,4 +1,4 @@
-# 🏠 Análise de Domicílios Ocupados em Florianópolis 
+# 🏠 Análise de Domicílios Desocupados em Florianópolis 
 
 Este estudo analisa os dados de domicílios ocupados e desocupados na cidade de Florianópolis, utilizando técnicas de visualização geoespacial. O objetivo é entender a distribuição de casas desocupadas e como elas estão espalhadas pela cidade.
 
